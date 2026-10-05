@@ -1,0 +1,1 @@
+{"dataset":"sample_creator_profiles","fields":{"name":"string","handle":"string","platform":"string","followers":"integer","engagement":"number","niche":"string","city":"string"},"note":"Synthetic demo records; replace with a properly licensed Kaggle export before benchmarking."}

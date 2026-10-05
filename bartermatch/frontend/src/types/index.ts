@@ -1,0 +1,1 @@
+export type Creator={id:number;name:string;handle:string;platform:string;followers:number;engagement:number;niche:string;city:string;trust_score:number}; export type Campaign={id:number;title:string;product_id:number;niche:string;city:string;budget:number;status:string}; export type Match={creator:Creator;score:number;breakdown:Record<string,number>;reason:string};
